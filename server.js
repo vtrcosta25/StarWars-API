@@ -1,6 +1,6 @@
 const axios = require('axios')
 const cors = require('cors')
-const express = require ('express')  // chama express
+const express = require ('express')  
 const app = express()
 
 //app.listen('4567')
